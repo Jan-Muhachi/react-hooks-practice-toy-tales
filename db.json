@@ -13,40 +13,52 @@
       "likes": 14
     },
     {
-      "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
-    },
-    {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
       "likes": 4
     },
     {
-      "id": 5,
-      "name": "Rex",
-      "image": "https://static.wikia.nocookie.net/pixar/images/a/a8/Rex_%28Toy_Story%29.png/revision/latest/scale-to-width-down/377?cb=20210221010941",
-      "likes": 1
-    },
-    {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
-    },
-    {
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 6
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 9
+    },
+    {
+      "name": "Tweetee",
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/280x338/15497559a.webp",
+      "likes": 19,
+      "id": 9
+    },
+    {
+      "name": "Dino Fury Red Ranger ",
+      "image": "https://i.pinimg.com/736x/6a/ff/28/6aff282106e52d6184f1054bee897a51.jpg",
+      "likes": 12,
+      "id": 10
+    },
+    {
+      "name": "Road Runner",
+      "image": "https://media.printables.com/media/prints/324646/images/2798173_5427d15e-0612-412a-a040-04ba63a1d4c3/thumbs/cover/800x800/jpg/road-runner-angle.webp",
+      "likes": 17,
+      "id": 11
+    },
+    {
+      "name": "Tom and Jerry",
+      "image": "https://snooplay.in/cdn/shop/products/Tom_JerrySet12_1400x.png?v=1640870086",
+      "likes": 49,
+      "id": 12
+    },
+    {
+      "name": "Spike",
+      "image": "https://facts.net/wp-content/uploads/2023/09/11-facts-about-spike-tom-and-jerry-1693820562.jpg",
+      "likes": 19,
+      "id": 13
     }
   ]
 }
